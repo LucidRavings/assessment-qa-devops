@@ -1,0 +1,26 @@
+TEST PLAN 1 for DUEL DUO WEBAPP
+
+Overview:
+
+Verifying functionality of the 'See All Bots' button.
+
+Links:
+
+http://localhost:4000
+
+Test Criteria:
+
+- Ensure a list of bots is displayed when 'See All Bots' button is clicked.
+
+Entry Criteria:
+
+-Access to a web browser, (Google Chrome is prefered)
+-A local copy of the website files for local hosting
+
+Exit Criteria:
+
+-results of tests are recorded as either a success or a failure
+
+Other Details:
+
+This test assumes the use of a non-mobile device.

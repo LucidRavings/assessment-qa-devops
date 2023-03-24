@@ -1,0 +1,17 @@
+TEST CASE 1 (under TEST PLAN 1)
+
+Description:
+
+Duel Duo webapp should display all bots when the 'See All Bots' button is clicked.
+
+Steps:
+
+1. Navigate to the Duel Duo webapp
+
+2. Identify "See All Bots" button on the home page and click "See All Bots" button
+
+3. Wait 10 seconds
+
+Post conditions:
+
+- All variations of 'bots' are displayed.

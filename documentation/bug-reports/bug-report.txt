@@ -1,0 +1,31 @@
+BUG REPORT for TEST 1
+
+DATE: 3-24-2023
+
+Description:
+
+No 'bots' are displayed after clicking the "See All Bots" button
+
+Steps to reproduce:
+
+1. Navigate to the Duel Duo webapp
+
+2. Identify "See All Bots" button on the home page and click "See All Bots" button
+
+3. Wait 10 seconds
+
+Expected Result:
+
+- All variations of 'bots' are displayed.
+
+Actual result:
+
+- No 'bots' are displayed
+
+Enviroment:
+
+-Google Chrome Version 111.0.5563.65 (Official Build) (64-bit)
+-Windows 11 Home - Version 22H2 - OS Build 22621.1265
+
+Attachments:
+PNG of GUI results and console logs at conclusion of test added to this folder.
